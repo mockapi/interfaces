@@ -1,0 +1,10 @@
+{
+    "name": "mockapi/interfaces",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Mockapi\\Interfaces\\": "src/"
+        }
+    }
+}
